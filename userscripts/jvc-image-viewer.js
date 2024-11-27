@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JVC_ImageViewer
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
+// @version      2.0.2
 // @description  Naviguer entre les images d'un post sous forme de slideshow en cliquant sur une image sans ouvrir NoelShack.
 // @author       HulkDu92
 // @match        https://*.jeuxvideo.com/forums/*
@@ -74,17 +74,17 @@
                 }, 250);
             });
 
-            this.panzoomInstance.on('transform', (e) => {
+            this.panzoomInstance.on('transform', () => {
                 // console.log("busy");
                 this.markBusy.bind(this);
             });
 
             // Ecouteur pour le pan
-            this.panzoomInstance.on('panstart', (e) => {
+            this.panzoomInstance.on('panstart', () => {
                 this.isDragging = true;
             });
 
-            this.panzoomInstance.on('panend', (e) => {
+            this.panzoomInstance.on('panend', () => {
                 // Attendre un court délai avant de remettre isDragging à false
               clearTimeout(this.timeoutIdPanning); // Réinitialise le timer si un nouveau zoom survient
               this.timeoutIdPanning = setTimeout(() => {
@@ -798,8 +798,8 @@
               border: 'none',
               borderRadius: '50%',
               fontSize: isMobileDevice ? '12px' : '10px',
-              width: isMobileDevice ? '37px' : '37px',
-              height: isMobileDevice ? '37px' : '37px',
+              width: '37px',
+              height: '37px',
               cursor: 'pointer',
               display: 'flex',
               alignItems: 'center',
@@ -848,8 +848,8 @@
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                width: isMobileDevice ? '37px' : '37px',
-                height: isMobileDevice ? '37px' : '37px',
+                width: '37px',
+                height: '37px',
                 boxShadow: '0 2px 4px rgba(0, 0, 0, 0.5)',
                 transition: 'transform 0.3s ease, background-color 0.3s ease',
             });
