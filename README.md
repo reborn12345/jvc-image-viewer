@@ -1,9 +1,9 @@
 # JVC ImageViewer
 
+[![Users](https://img.shields.io/badge/Users-300+-blue?style=for-the-badge)](https://jvscript.fr/script/jvc-imageviewer)
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
+[![Code Quality](https://img.shields.io/codefactor/grade/github/reborn12345/jvc-image-viewer/main?label=Code+Quality&logo=codefactor&logoColor=white&labelColor=464646&color=b5fc7b&style=for-the-badge)](https://www.codefactor.io/repository/github/reborn12345/jvc-image-viewer)
 [![Issues][issues-shield]][issues-url]
 
 
