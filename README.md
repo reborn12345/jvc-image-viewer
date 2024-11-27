@@ -47,6 +47,16 @@ Ce userscript améliore votre navigation sur Jeuxvideo.com en empêchant les red
 
 Les contributions sont les bienvenues !
 
+Ce projet existe grâce au code, tests, problèmes signalés, et idées des contributeurs suivants :
+
+<a href="https://github.com/reborn12345">
+  <img src="https://github.com/reborn12345.png?size=50" style="border-radius: 50%; width: 50px; height: 50px;" alt="HulkDu92">
+</a>
+
+<a href="https://github.com/Atlantis-GitH">
+  <img src="https://github.com/Atlantis-GitH.png?size=50" style="border-radius: 50%; width: 50px; height: 50px;" alt="Scar-Akai">
+</a>
+
 
 ## License
 
