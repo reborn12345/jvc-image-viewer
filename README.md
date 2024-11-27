@@ -9,7 +9,7 @@
 
 Dites adieu aux pages NoëlShack ! Visualisez les images de JVC directement dans une modale avec ce script.
 
-<img src="https://image.noelshack.com/fichiers/2024/48/3/1732718784-screenshot-20241127-154545-kiwi-browser.jpg" width="150" />
+<img src="https://image.noelshack.com/fichiers/2024/48/3/1732719291-imageviewer-script.jpg"/>
 
 ## Fonctionnalités
 
