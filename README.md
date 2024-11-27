@@ -38,7 +38,7 @@ Ce userscript améliore votre navigation sur Jeuxvideo.com en empêchant les red
     Cliquez sur le bouton "Installer" ci-dessous (ou copiez le code brut depuis [userscript/jvc-image-viewer.user.js](userscript/jvc-image-viewer.user.js)). Cela devrait ouvrir automatiquement votre gestionnaire de userscripts.
 
 
-    [![Installer le Userscript](https://img.shields.io/badge/Installer%20le%20Userscript-Cliquez%20ici-brightgreen?style=for-the-badge&logo=tampermonkey)](https://update.greasyfork.org/508447-jvc-imageviewer.user.js)
+    [![Installer le Userscript](https://img.shields.io/badge/Installer%20le%20Userscript-Cliquez%20ici-brightgreen?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/scripts/508447/code/jvc-imageviewer.user.js)
 
 
 3. **Activer le script :** Assurez-vous que le script est activé dans votre gestionnaire de userscripts. C'est tout ! Rendez-vous sur jeuxvideo.com (ou le forum cible) et profitez des images taille réelle sans NoelShack !
