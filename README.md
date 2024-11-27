@@ -7,8 +7,9 @@
 [![Issues][issues-shield]][issues-url]
 
 
-Ce projet permet d'afficher les images de jeuxvideo.com sous forme de modal en évitant d'ouvrir une nouvelle page NoelShack.
+Dites adieu aux pages NoëlShack ! Visualisez les images de JVC directement dans une modale avec ce script.
 
+<img src="https://image.noelshack.com/fichiers/2024/48/3/1732718784-screenshot-20241127-154545-kiwi-browser.jpg" width="150" />
 
 ## Fonctionnalités
 
